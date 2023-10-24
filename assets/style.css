@@ -1,0 +1,13 @@
+header {
+  background: rgb(63, 94, 251);
+  background: linear-gradient(90deg, rgba(63, 94, 251, 1) 37%, rgba(52, 42, 160, 1) 65%);
+
+}
+
+
+
+.text-light {
+
+  direction: rtl;
+
+}
