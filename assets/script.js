@@ -4,7 +4,7 @@ function getLatLon(city) {
     alert('City cannot be blank')
     return;
   }
-  var requestUrl = 'http://api.openweathermap.org/geo/1.0/direct?q=' + city + '&limit=3&appid=d98bb48723a72ceb98f0fb8ddebd6462';
+  var requestUrl = 'https://api.openweathermap.org/geo/1.0/direct?q=' + city + '&limit=3&appid=d98bb48723a72ceb98f0fb8ddebd6462';
   fetch(requestUrl)
     .then(response => response.json())
     .then(data => {
