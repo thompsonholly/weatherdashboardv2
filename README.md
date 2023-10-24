@@ -4,10 +4,8 @@
 
 A search to find the current weather conditions
 
-![screenshot](/homework/weatherdashboardv2/images/weatherdash.png) 
+![screenshot](/homework/unit-06/images/weatherapp.png) https://github.com/thompsonholly/weatherdashboard
 
-https://github.com/thompsonholly/weatherdashboard
-
-https://thompsonholly.github.io/weatherdashboardv2/
+https://thompsonholly.github.io/weatherdashboard/
 
 
